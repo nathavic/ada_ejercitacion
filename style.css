@@ -16,6 +16,15 @@ p {
     font-size: 25px;
 }
 
+li {
+    font-size: 20px;
+}
+
+.list {
+    color: #d5b9b2;
+    list-style-type: square;
+}
+
 a {
     color: #a26769;
 }

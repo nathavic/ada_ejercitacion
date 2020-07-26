@@ -1,0 +1,251 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@600;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chewy&family=Gloria+Hallelujah&display=swap');
+header {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px 20px;
+}
+
+body {
+    background-color: #f4f4f4;
+    font-family: "Lato";
+    color: #324376;
+}
+
+.titulo {
+    font-size: 120px;
+    font-family: "Inconsolata";
+    color: #324376;
+}
+
+.p1 {
+    font-size: 48px;
+    font-family: "Inconsolata";
+}
+
+.p2 {
+    font-family: "Inconsolata";
+}
+
+.color {
+    color: #ffd166;
+}
+
+h1 {
+    font-size: 60px;
+    color: #e0afa0;
+}
+
+.ada {
+    color: #848586;
+}
+
+a {
+    color: #848586;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0892a5;
+}
+
+a:active {
+    color: #0892a5;
+}
+
+.emoji {
+    font-size: x-large;
+}
+
+.emoji1 {
+    font-size: small;
+}
+
+.es {
+    text-align: left;
+}
+
+.cen {
+    text-align: center;
+}
+
+.dir {
+    text-align: right;
+}
+
+ul {
+    list-style-type: square;
+    color: white;
+}
+
+.arandano {
+    background-color: #4F86F7;
+}
+
+.cereza {
+    background-color: #DE3163;
+}
+
+.durazno {
+    background-color: #ff7f50;
+}
+
+.banana {
+    background-color: #ffe135;
+}
+
+.frutilla {
+    background-color: #d53032;
+}
+
+.lima {
+    background-color: #B2FF00;
+}
+
+.mandarina {
+    background-color: #F28500;
+}
+
+.sandia {
+    background-color: #eb636b;
+    font-size: medium;
+}
+
+.uva {
+    background-color: #6F2DA8;
+    font-size: medium;
+}
+
+.mango {
+    background-color: #FF8243;
+}
+
+.paletas {
+    background-color: white;
+}
+
+.flan {
+    font-family: "Staatliches";
+    font-size: 30px;
+    color: #78351b;
+}
+
+.flan1 {
+    background-color: #dab49d;
+    color: #f3e9dc;
+    font-family: "Staatliches";
+    font-size: 20px;
+}
+
+.flan2 {
+    background-color: #8e6e53;
+    color: #c69c72;
+    font-family: "Staatliches";
+    font-size: 20px;
+}
+
+.flan3 {
+    background-color: #895737;
+    color: #c08552;
+    font-family: "Staatliches";
+    font-size: 20px;
+}
+
+.flan4 {
+    background-color: #5a2a27;
+    color: #8d5b4c;
+    font-family: "Staatliches";
+    font-size: 20px;
+}
+
+.flan5 {
+    background-color: #3a2618;
+    color: #aa775a;
+    font-family: "Staatliches";
+    font-size: 20px;
+}
+
+.pico {
+    font-family: "Chewy";
+    font-size: 30px;
+    color: rgb(225, 32, 0);
+}
+
+.pico1 {
+    background-color: rgb(255, 230, 0);
+    color: rgb(255, 255, 209);
+    font-family: "Chewy";
+    font-size: 20px;
+}
+
+.pico2 {
+    background-color: rgb(255, 128, 0);
+    color: rgb(255, 197, 70);
+    font-family: "Chewy";
+    font-size: 20px;
+}
+
+.pico3 {
+    background-color: rgb(255, 74, 0);
+    color: rgb(255, 121, 116);
+    font-family: "Chewy";
+    font-size: 20px;
+}
+
+.pico4 {
+    background-color: rgb(69, 172, 89);
+    color: rgb(45, 240, 89);
+    font-family: "Chewy";
+    font-size: 20px;
+}
+
+.pico5 {
+    background-color: rgb(255, 255, 244);
+    color: rgb(13, 29, 10);
+    font-family: "Chewy";
+    font-size: 20px;
+}
+
+.miga {
+    font-family: "Gloria Hallelujah";
+    font-size: 25px;
+    color: hsl(342, 1%, 18%);
+}
+
+.miga1 {
+    background-color: hsl(0, 100%, 89%);
+    color: hsl(0, 100%, 76%);
+    font-family: "Gloria Hallelujah";
+    font-size: 15px;
+}
+
+.miga2 {
+    background-color: hsl(58, 98%, 82%);
+    color: hsl(54, 100%, 53%);
+    font-family: "Gloria Hallelujah";
+    font-size: 15px;
+}
+
+.miga3 {
+    background-color: hsl(106, 59%, 44%);
+    color: hsl(106, 43%, 68%);
+    font-family: "Gloria Hallelujah";
+    font-size: 15px;
+}
+
+.miga4 {
+    background-color: hsl(25, 100%, 94%);
+    color: hsl(25, 45%, 54%);
+    font-family: "Gloria Hallelujah";
+    font-size: 15px;
+}
+
+.miga5 {
+    background-color: hsl(0, 100%, 35%);
+    color: hsl(0, 100%, 58%);
+    font-family: "Gloria Hallelujah";
+    font-size: 15px;
+}
